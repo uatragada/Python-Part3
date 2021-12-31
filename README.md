@@ -1,6 +1,6 @@
 # Readme
 
-If you have questions about this week's lab, reading, or lecture, ANY TA for this class can help you with any problems.
+If you have questions about this week's lab ANY TA for this class can help you with any problems.
 
 ## Getting Started Again™
 
